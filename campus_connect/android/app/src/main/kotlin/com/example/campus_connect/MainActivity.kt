@@ -1,5 +1,4 @@
-package com.example.campus_connect
-
+package com.bowen.campus_connect
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity() {
